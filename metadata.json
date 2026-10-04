@@ -1,0 +1,6 @@
+{
+  "name": "Cash Calculator & Daily Expense Manager",
+  "description": "Professional cash denomination counter, daily cash register, expense tracker, bank deposit slips, and drawer reconciliation with offline support and dark mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
